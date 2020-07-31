@@ -3,7 +3,7 @@
 
 > **Want an invite?**
 
-> Send an <a href="mailto://ustinBusschau@users.noreply.github.com">email</a> with your name and the briefest meaningful* explanation of who you are and why you want to join the Slack.
+> Send an <span class="spamspan"><span class="u">justin [dot] busschau</span> [at] <span class="d">gmail [dot] com</span> (<span class="t">email</span>, <span class="subject">FFS-TA: Application</span>, <span class="body">Please add me!</span>)</span> with your name and the briefest meaningful* explanation of who you are and why you want to join the Slack.
 > Include some information on how you heard about us, too - this helps us understand how the word spreads.
 
 ## First things first ... why call it `FFS-TA`?
