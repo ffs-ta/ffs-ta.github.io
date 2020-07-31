@@ -47,15 +47,15 @@ Once you’re on board, the following suggestions and guidelines are intended to
 
 1. Go and introduce yourself on #intros. Tell us about yourself.
 2. Update your profile with a photo. Add interesting and relevant facts in your profile. Make yourself a human.
-3. There’s a Code of Conduct. **_[Read it!]()_**.
+3. There’s a Code of Conduct. **_[Read it!](./code.md)_**.
 4. Explore the channels.
 5. Please be careful with the use of broadcast features like @here or even @channel.
-6. If your favorite topic isn’t being discussed, create it. **Channels are free.** Announce your newly created channel on #general.
+6. If your favourite topic isn’t being discussed, create it. **Channels are free.** Announce your newly created channel on #general.
 7. All are welcome to contribute. If you want to hang back and lurk, that’s cool too.
 8. We expect that we’ll treat others with respect. We encourage debate; we ask for patience, and we remind you that you’re here to share and learn and that means being open to a diverse set of ideas.
-9. This Slack is **not** a place for commercial activity (e.g. recruiting, or marketing your product/conference) except in channels dedicated to that purpose and never in an unsolicited direct message. If you see commercial behavior going down, alert the @justin, and he’ll address it.
+9. This Slack is **not** a place for commercial activity (e.g. recruiting, or marketing your product/conference) except in channels dedicated to that purpose and never in an unsolicited direct message. If you see commercial behaviour going down, alert the @justin, and he’ll address it.
 10. If you know someone who should be here, drop @justin a direct message in the Slack, and he’ll invite them.
-11. Really, read the **_[Code of Conduct]()_**.
+11. Really, read the **_[Code of Conduct](./code.md)_**.
 
 
 > **Full disclosure**
